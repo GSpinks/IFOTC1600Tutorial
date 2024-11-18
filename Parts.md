@@ -13,3 +13,5 @@
 9. Sound Card - Processes audio and is responsible for generating and recording audio.
 10. USB Ports - Allows the connection of devices such as keyboards, mice, and external microphones.
 11. Case - The enclosure that houses and protects all of the computer components.
+
+![PC Parts](https://media.istockphoto.com/id/1338485833/photo/exploded-view-of-a-modern-computer-hardware-components-mainboard-cpu-processor-graphic-card.jpg?s=612x612&w=0&k=20&c=hwITRJ3bAbrX8jmPdOArRf7TyvnaAde31XRFp17e77Q=)
