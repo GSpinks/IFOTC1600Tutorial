@@ -15,6 +15,8 @@ General Instructions:
 9. **Install Operating System** - From the initial startup, insert installation media into the bus to download the Operating System.
 10. **Install Drivers** - Install drivers through installation media of CPU, GPU, Motherboard to optimize/customize components.
 
+![PC](https://images.unsplash.com/photo-1721332150382-d4114ee27eff?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxzZWFyY2h8MXx8cGMlMjBidWlsZHxlbnwwfHwwfHx8MA%3D%3D)
+
 
 
 This is not a full step-by-step instructions, for better knowledge, watch this tutorial for better instruction:
