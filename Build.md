@@ -2,7 +2,7 @@
 [Home](README.md)
 [Computer Parts](Parts.md)
 
-General Instructions:
+####General Instructions:
 
 1. **Install the CPU** -  Attach onto the motherboard through the socket and aligning the triangles together.
 2. **Install RAM** - Open and align RAM slots with the RAM sticks and press them in firmly.
