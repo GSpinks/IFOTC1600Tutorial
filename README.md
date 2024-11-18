@@ -1,1 +1,2 @@
-# IFOTC1600Tutorial
+# How do Computers Work
+## By: Grant Spinks
