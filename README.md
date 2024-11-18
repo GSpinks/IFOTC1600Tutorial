@@ -1,5 +1,9 @@
 # How do Computers Work
 ## By: Grant Spinks
+
+[Computer Parts](Parts.md)
+[Build Computer](Build.md)
+
 #### Summary:
 The purpose and content of this tutorial is to give a brief understanding of how computer parts work, how each part works together, and how to build a personal computer.
 #### Target Audience:
